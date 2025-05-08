@@ -457,7 +457,7 @@ print(encrypted_data)
 
 ### 1.
 - ![certif.png](assets/certif.png)
-- a) R11
-- b) 23feb 2025 - 25mai 2025
-- c) 256
-- d)
+- a) Let's Encrypt
+- b) 26aprilie 2025 - 25iulie 2025
+- c) 2048
+- d) 65537, e numar prim, face exponentierea rapida mai rapida pentru ca are doar 2 biti de 1
